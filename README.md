@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KalpeshParmar9574
-- 👀 I’m interested in Android Development 
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning Bachelor Engineering in Information Technology 
 - 💞️ I’m looking to collaborate on My projects 
 - 📫 How to reach me kalpeshparmar9574@gmail.com
